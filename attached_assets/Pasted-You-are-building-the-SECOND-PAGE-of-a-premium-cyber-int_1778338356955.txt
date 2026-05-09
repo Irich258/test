@@ -1,0 +1,377 @@
+You are building the SECOND PAGE of a premium cyber intelligence funnel for a modern AI-powered monitoring platform.
+
+IMPORTANT:
+The design MUST remain:
+- simple
+- clean
+- minimal
+- mobile-first
+- high-converting
+
+DO NOT create:
+- cluttered hacker visuals
+- complicated dashboards
+- overwhelming interfaces
+- scam-looking layouts
+- fake “Hollywood hacker” effects
+
+The experience should feel like:
+“a premium encrypted monitoring system”
+
+The page must feel:
+- intelligent
+- modern
+- secure
+- smooth
+- believable
+- technologically advanced
+
+The user should instantly understand what to do.
+
+---------------------------------------------------
+TECH STACK
+---------------------------------------------------
+
+Use:
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React Icons
+
+---------------------------------------------------
+IMPORTANT PROJECT CONTEXT
+---------------------------------------------------
+
+This is part of a MULTI-PAGE FUNNEL.
+
+Page 1 already established:
+- dark cyber aesthetic
+- premium SaaS look
+- encrypted AI monitoring theme
+
+This second page MUST visually continue the same design system.
+
+Maintain:
+- same colors
+- same typography
+- same glow effects
+- same spacing system
+- same UI language
+
+---------------------------------------------------
+DESIGN STYLE
+---------------------------------------------------
+
+STYLE:
+Minimal Cyber Intelligence UI
+
+Inspired by:
+- premium SaaS apps
+- encrypted systems
+- cybersecurity dashboards
+- modern intelligence platforms
+
+IMPORTANT:
+Less is more.
+
+The design should feel:
+- calm
+- premium
+- controlled
+- technologically advanced
+
+---------------------------------------------------
+COLOR SYSTEM
+---------------------------------------------------
+
+Background:
+#070B14
+#0F172A
+#111827
+
+Primary neon:
+#00FFB2
+#00E5FF
+#7C3AED
+
+Text:
+#FFFFFF
+#94A3B8
+
+Cards:
+rgba(255,255,255,0.03)
+
+Borders:
+rgba(255,255,255,0.08)
+
+---------------------------------------------------
+PAGE OBJECTIVE
+---------------------------------------------------
+
+The goal of this page:
+Get the user to enter a target phone number and continue.
+
+The experience should psychologically feel like:
+- entering a secure system
+- initializing encrypted monitoring
+- accessing a private intelligence platform
+
+---------------------------------------------------
+LAYOUT STRUCTURE
+---------------------------------------------------
+
+Create a centered mobile-first card layout.
+
+Structure:
+
+1. Small cyber logo
+2. Status badge
+3. Headline
+4. Subheadline
+5. Country selector
+6. Phone input
+7. Main CTA button
+8. Live activity section
+
+Everything should fit naturally on mobile.
+
+---------------------------------------------------
+TOP SECTION
+---------------------------------------------------
+
+Small cyber logo centered.
+
+Below it:
+animated status badge.
+
+Badge text:
+
+“SECURE CONNECTION ACTIVE”
+
+Style:
+- glassmorphism
+- subtle neon glow
+- soft pulse animation
+
+---------------------------------------------------
+HEADLINE
+---------------------------------------------------
+
+Large simple headline:
+
+“Secure Monitoring Access”
+
+Alternative:
+“Initialize Secure Connection”
+
+Typography:
+- bold
+- premium
+- clean
+- high readability
+
+---------------------------------------------------
+SUBHEADLINE
+---------------------------------------------------
+
+Text:
+
+“Private AI-powered real-time monitoring intelligence designed to keep your relationship safe.”
+
+Constrain width for readability.
+
+---------------------------------------------------
+COUNTRY SELECTOR
+---------------------------------------------------
+
+IMPORTANT FEATURE:
+
+The country selector MUST automatically detect the user's country using IP geolocation.
+
+Examples:
+- South Africa → 🇿🇦 +27
+- Mozambique → 🇲🇿 +258
+- Nigeria → 🇳🇬 +234
+
+Use:
+https://ipapi.co/json/
+
+OR equivalent IP geolocation service.
+
+The selector should auto-fill:
+- country flag
+- country name
+- dialing code
+
+BUT users can still manually change country.
+
+---------------------------------------------------
+PHONE INPUT
+---------------------------------------------------
+
+Premium modern phone input.
+
+Use:
+- dark glassmorphism style
+- neon focus border
+- subtle glow
+- large tap area
+
+Placeholder:
+“Enter target device number”
+
+Use proper international formatting.
+
+Recommended library:
+react-phone-input-2
+
+---------------------------------------------------
+MAIN CTA BUTTON
+---------------------------------------------------
+
+IMPORTANT:
+Do NOT use aggressive scammy wording.
+
+BAD:
+“Clone WhatsApp Now”
+
+GOOD:
+- Start Secure Monitoring
+- Initialize Secure Access
+- Connect Secure System
+- Begin Private Monitoring
+
+Button design:
+- premium gradient
+- neon glow
+- smooth hover animation
+- subtle shadow
+- slightly rounded corners
+
+The button must feel:
+- trustworthy
+- advanced
+- premium
+
+---------------------------------------------------
+LIVE ACTIVITY SECTION
+---------------------------------------------------
+
+Below CTA create a section called:
+
+“LIVE SYSTEM ACTIVITY”
+
+Display elegant activity cards.
+
+Examples:
+
+✓ Device session initialized
+Johannesburg, South Africa
+2 minutes ago
+
+✓ Secure connection established
+Cape Town, South Africa
+5 minutes ago
+
+✓ Notification sync enabled
+Durban, South Africa
+1 minute ago
+
+IMPORTANT:
+Keep this subtle and believable.
+
+---------------------------------------------------
+LIVE ACTIVITY DESIGN
+---------------------------------------------------
+
+Cards should:
+- use glassmorphism
+- soft border
+- subtle green glow
+- small animated online indicator
+- clean spacing
+
+Do NOT overdo effects.
+
+---------------------------------------------------
+ANIMATIONS
+---------------------------------------------------
+
+Use Framer Motion.
+
+Add:
+- fade in
+- slight upward motion
+- glow pulse
+- smooth hover interactions
+
+Animations should feel:
+- smooth
+- premium
+- subtle
+
+---------------------------------------------------
+RESPONSIVENESS
+---------------------------------------------------
+
+THIS IS MOBILE-FIRST.
+
+Optimize heavily for:
+- South African mobile users
+- smaller Android devices
+- vertical scrolling
+
+Buttons and inputs must:
+- feel large
+- thumb friendly
+- easy to use
+
+---------------------------------------------------
+UX RULES
+---------------------------------------------------
+
+Keep the interface:
+- extremely simple
+- clean
+- distraction free
+
+The user should instantly know:
+1. enter number
+2. continue
+
+Avoid:
+- excessive text
+- unnecessary sections
+- complex layouts
+
+---------------------------------------------------
+CODE QUALITY
+---------------------------------------------------
+
+IMPORTANT:
+Write scalable production-quality code.
+
+Separate components:
+
+/components
+- CyberLogo
+- StatusBadge
+- PhoneInputCard
+- GlowButton
+- ActivityCard
+- BackgroundEffects
+
+Keep code modular and reusable.
+
+---------------------------------------------------
+FINAL EMOTIONAL GOAL
+---------------------------------------------------
+
+The user should feel like they are:
+- accessing a secure encrypted system
+- using advanced AI technology
+- entering a premium intelligence platform
+
+The experience should feel:
+minimal + premium + technologically powerful.

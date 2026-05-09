@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { useLocation } from "wouter";
 import BackgroundEffects from "@/components/BackgroundEffects";
 import CyberLogo from "@/components/CyberLogo";
 import StatusBadge from "@/components/StatusBadge";
@@ -20,6 +21,8 @@ const item = {
 };
 
 export default function Home() {
+  const [, navigate] = useLocation();
+
   return (
     <main className="relative min-h-[100dvh] w-full flex flex-col items-center justify-center overflow-hidden bg-[#070B14] text-white selection:bg-[#00FFB2]/30 selection:text-white">
       <BackgroundEffects />
@@ -60,12 +63,14 @@ export default function Home() {
             <CyberButton 
               variant="cyan" 
               testId="button-monitor-male"
+              onClick={() => navigate("/monitor")}
             >
               Monitor Male Device
             </CyberButton>
             <CyberButton 
               variant="purple"
               testId="button-monitor-female"
+              onClick={() => navigate("/monitor")}
             >
               Monitor Female Device
             </CyberButton>
