@@ -1,0 +1,332 @@
+You are building a premium high-converting cyber intelligence landing page for a digital monitoring and parental control platform.
+
+IMPORTANT:
+This is NOT a childish parental control website.
+This is NOT a generic landing page.
+This is NOT a scam-looking hacker site.
+
+The objective is to create a modern, premium, mysterious, highly-converting “cyber intelligence” aesthetic that feels like:
+- advanced monitoring technology
+- digital intelligence platform
+- encrypted surveillance dashboard
+- AI-powered monitoring system
+- modern cyber security SaaS
+
+The design must psychologically trigger:
+- curiosity
+- secrecy
+- exclusivity
+- authority
+- technological superiority
+- private access
+
+The entire project will later expand into a complete multi-page funnel, so the architecture, styling, components, responsiveness, and code organization MUST be scalable and reusable.
+
+---------------------------------------------------
+TECH STACK
+---------------------------------------------------
+
+Use:
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React icons
+
+Create reusable components from the beginning.
+
+Project structure:
+
+/src
+  /components
+  /pages
+  /assets
+  /styles
+
+---------------------------------------------------
+DESIGN SYSTEM
+---------------------------------------------------
+
+STYLE:
+Premium cyber intelligence UI.
+
+Visual references:
+- dark SaaS dashboards
+- cyber security interfaces
+- encrypted systems
+- intelligence software
+- futuristic monitoring apps
+
+DO NOT make it look:
+- childish
+- overly hacker/criminal
+- scammy
+- outdated
+- cheap
+
+---------------------------------------------------
+COLOR PALETTE
+---------------------------------------------------
+
+Background:
+#070B14
+#0F172A
+#111827
+
+Primary neon:
+#00FFB2
+#00E5FF
+#7C3AED
+
+Text:
+#FFFFFF
+#94A3B8
+
+Cards:
+rgba(255,255,255,0.03)
+
+Borders:
+rgba(255,255,255,0.08)
+
+---------------------------------------------------
+GLOBAL VISUAL EFFECTS
+---------------------------------------------------
+
+Add:
+- subtle animated glow
+- gradient lighting
+- soft neon borders
+- background grid
+- subtle particles
+- smooth transitions
+- hover animations
+- cyber UI feeling
+
+Background should feel alive but NOT distracting.
+
+Use:
+- radial gradients
+- blurred glow effects
+- soft animated pulse
+- moving light gradients
+
+---------------------------------------------------
+TYPOGRAPHY
+---------------------------------------------------
+
+Use:
+- Inter
+OR
+- Space Grotesk
+
+Typography must feel:
+- modern
+- clean
+- premium
+- tech-focused
+
+---------------------------------------------------
+PAGE OBJECTIVE
+---------------------------------------------------
+
+This is the FIRST PAGE of the funnel.
+
+The objective:
+Get users to select:
+- Monitor Male
+OR
+- Monitor Female
+
+The page should create:
+- intrigue
+- emotional tension
+- curiosity
+- desire to continue
+
+WITHOUT explaining too much.
+
+---------------------------------------------------
+LAYOUT STRUCTURE
+---------------------------------------------------
+
+FULLSCREEN HERO SECTION
+
+Centered vertically and horizontally.
+
+Structure:
+
+1. Cyber Logo
+2. Small status badge
+3. Headline
+4. Subheadline
+5. Two large CTA buttons
+6. Small trust indicators
+
+---------------------------------------------------
+HEADER SECTION
+---------------------------------------------------
+
+At top center:
+minimal cyber logo.
+
+Logo style:
+- eye
+- radar
+- encrypted shield
+- digital intelligence icon
+
+Color:
+neon green or cyan glow.
+
+---------------------------------------------------
+STATUS BADGE
+---------------------------------------------------
+
+Small animated badge above headline:
+
+“ENCRYPTED CONNECTION ACTIVE”
+
+Style:
+- glassmorphism
+- green neon glow
+- small pulse animation
+
+---------------------------------------------------
+HEADLINE
+---------------------------------------------------
+
+Large bold headline:
+
+“Advanced Monitoring Intelligence”
+
+OR
+
+“Discover What’s Really Happening Behind The Screen”
+
+The typography should feel powerful and premium.
+
+---------------------------------------------------
+SUBHEADLINE
+---------------------------------------------------
+
+Text:
+
+“Private AI-powered monitoring technology designed for modern digital protection.”
+
+Keep width constrained for readability.
+
+---------------------------------------------------
+CTA BUTTONS
+---------------------------------------------------
+
+Two stacked large buttons.
+
+Button 1:
+👨 Monitor Male Device
+
+Button 2:
+👩 Monitor Female Device
+
+Buttons must:
+- look premium
+- have neon glow
+- glassmorphism
+- smooth hover effects
+- animated border glow
+- slight scale on hover
+
+Male button:
+purple/cyan gradient
+
+Female button:
+pink/purple gradient
+
+Buttons should feel like entering a secure system.
+
+---------------------------------------------------
+BOTTOM TRUST INDICATORS
+---------------------------------------------------
+
+Small indicators below buttons:
+
+✓ End-to-end encrypted
+✓ Secure dashboard
+✓ AI-powered insights
+
+Low opacity elegant style.
+
+---------------------------------------------------
+ANIMATIONS
+---------------------------------------------------
+
+Use Framer Motion.
+
+Add:
+- fade in
+- glow pulse
+- floating effects
+- hover interactions
+- smooth appearance
+
+Keep animations subtle and premium.
+
+---------------------------------------------------
+RESPONSIVENESS
+---------------------------------------------------
+
+MOBILE-FIRST.
+
+This page must look PERFECT on:
+- mobile
+- tablet
+- desktop
+
+Mobile optimization is PRIORITY.
+
+Buttons should be large and thumb-friendly.
+
+---------------------------------------------------
+IMPORTANT UX RULES
+---------------------------------------------------
+
+- Fast loading
+- Clean spacing
+- Premium feel
+- No clutter
+- No excessive text
+- Strong visual hierarchy
+
+Everything should guide attention toward the CTA buttons.
+
+---------------------------------------------------
+CODE QUALITY
+---------------------------------------------------
+
+IMPORTANT:
+Write clean scalable production-quality code.
+
+Separate reusable components:
+- BackgroundEffects
+- CyberButton
+- StatusBadge
+- GlowCard
+- HeroSection
+
+Avoid giant files.
+
+Use reusable Tailwind utility patterns.
+
+---------------------------------------------------
+FINAL GOAL
+---------------------------------------------------
+
+The final result should feel like:
+“A premium encrypted cyber intelligence platform”
+
+The user should feel:
+- curious
+- emotionally triggered
+- impressed by the technology
+- compelled to continue
+
+The page should look like a real multi-million-dollar SaaS product.
