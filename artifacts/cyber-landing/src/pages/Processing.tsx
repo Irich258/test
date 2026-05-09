@@ -80,13 +80,13 @@ export default function Processing() {
               Ongoing Deep Research Investigations
             </h1>
             <p className="text-sm sm:text-base text-[#94A3B8]/70 max-w-sm leading-relaxed">
-              If you leave the video you will be alerted of the number that is{" "}
+              Do not leave this page while the investigation is in progress, or the target number{" "}
               <motion.span
                 className="text-[#94A3B8]"
                 animate={{ opacity: [0.5, 1, 0.5] }}
                 transition={{ duration: 2.4, repeat: Infinity, ease: "easeInOut" }}
               >
-                under investigation...
+                may be alerted.
               </motion.span>
             </p>
           </motion.div>
