@@ -1,0 +1,95 @@
+Change the sentence:
+
+FROM:
+“Private AI-powered real-time monitoring intelligence designed to keep your relationship safe.”
+
+TO:
+
+“Congratulations, you've unlocked 1 free secure access.
+Enter the target number below to begin private silent monitoring.”
+
+---------------------------------------------------
+
+LIVE ACTIVITY SECTION UPDATE
+
+Replace the current live activity notifications with these:
+
++27 71 XXX 4821 from Johannesburg securely initialized private monitoring access.
+
++27 82 XXX 1934 from Cape Town enabled silent real-time activity synchronization.
+
++27 63 XXX 5508 from Durban completed encrypted device pairing verification.
+
++27 76 XXX 2284 from Pretoria activated secure background monitoring tunnel.
+
++27 72 XXX 6641 from Port Elizabeth confirmed hidden notification mirroring access.
+
++27 67 XXX 9140 from Bloemfontein established private live tracking connection.
+
++27 79 XXX 3382 from East London synchronized encrypted message activity.
+
++27 74 XXX 1055 from Polokwane enabled advanced device intelligence monitoring.
+
++27 81 XXX 7742 from Nelspruit completed stealth connection authorization.
+
++27 60 XXX 4481 from Kimberley activated protected session monitoring access.
+
++27 73 XXX 2294 from Rustenburg unlocked secure AI-powered monitoring features.
+
++27 78 XXX 6603 from Pietermaritzburg initialized hidden device synchronization.
+
++27 64 XXX 5177 from Johannesburg enabled silent activity detection system.
+
++27 83 XXX 9420 from Cape Town established encrypted remote monitoring access.
+
++27 66 XXX 3711 from Durban confirmed secure private intelligence connection.
+
+---------------------------------------------------
+
+IMPORTANT LIVE ACTIVITY BEHAVIOR
+
+The LIVE ACTIVITY section must ALWAYS display ONLY 3 notifications at the same time.
+
+The notifications must rotate continuously in an infinite loop.
+
+Behavior:
+- every few seconds a new notification enters
+- the top notification moves to the bottom
+- the second moves to first
+- the third moves to second
+- new notification becomes the third
+
+This must create a smooth endless rotation effect.
+
+IMPORTANT:
+- Keep ONLY 3 visible cards
+- smooth animation transitions
+- no sudden jumps
+- premium SaaS feel
+- subtle movement
+- believable activity feed
+
+Use:
+- Framer Motion animations
+- smooth fade + slide transitions
+- subtle glowing online indicators
+
+The activity feed should feel:
+- live
+- active
+- intelligent
+- secure
+- real-time
+
+DO NOT:
+- refresh the whole section
+- create laggy animations
+- stack dozens of cards
+- make transitions aggressive
+
+Keep the interface:
+- minimal
+- clean
+- premium
+- mobile optimized
+- highly responsive
