@@ -1,5 +1,6 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
+import { useLocation } from "wouter";
 import BackgroundEffects from "@/components/BackgroundEffects";
 import CyberLogo from "@/components/CyberLogo";
 import StatusBadge from "@/components/StatusBadge";
@@ -44,6 +45,7 @@ const TOTAL = ACTIVITY_ENTRIES.length;
 
 export default function Monitor() {
   const [startIndex, setStartIndex] = useState(0);
+  const [, setLocation] = useLocation();
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -97,6 +99,7 @@ export default function Monitor() {
               variant="cyan" 
               className="w-full"
               testId="button-begin-monitoring"
+              onClick={() => setLocation("/processing")}
             >
               Begin Secure Monitoring
             </CyberButton>

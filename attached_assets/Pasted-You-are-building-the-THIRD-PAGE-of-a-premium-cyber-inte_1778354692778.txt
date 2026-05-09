@@ -1,0 +1,403 @@
+You are building the THIRD PAGE of a premium cyber intelligence funnel for a modern AI-powered monitoring platform.
+
+IMPORTANT:
+This page is strategically designed to maximize RETENTION during a 3-minute VSL/video experience.
+
+The page MUST feel:
+- premium
+- intelligent
+- technologically advanced
+- real-time
+- secure
+- believable
+- smooth
+- minimal
+
+DO NOT create:
+- scammy hacker visuals
+- fake movie hacking effects
+- cluttered dashboards
+- aggressive flashing animations
+- outdated CPA styles
+
+The experience should feel like:
+“a premium encrypted intelligence system processing live data in real time.”
+
+---------------------------------------------------
+MAIN OBJECTIVE
+---------------------------------------------------
+
+The core objective of this page is:
+
+KEEP USERS ENGAGED FOR THE FULL 3-MINUTE VIDEO DURATION.
+
+The processing system, loading states, animations, logs, progress bar, and UI interactions MUST be synchronized to create the feeling that:
+- encrypted synchronization is actively happening
+- secure analysis is being processed
+- the system is working in real time
+
+The final processing completion MUST happen ONLY after approximately 3 minutes.
+
+---------------------------------------------------
+TECH STACK
+---------------------------------------------------
+
+Use:
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React Icons
+
+---------------------------------------------------
+GLOBAL DESIGN STYLE
+---------------------------------------------------
+
+STYLE:
+Minimal Premium Cyber Intelligence Interface
+
+Inspired by:
+- encrypted SaaS platforms
+- cyber security dashboards
+- intelligence systems
+- Apple-level UI minimalism
+- modern dark-mode apps
+
+The design should feel:
+- elegant
+- believable
+- technologically powerful
+- cinematic
+- smooth
+
+---------------------------------------------------
+COLOR SYSTEM
+---------------------------------------------------
+
+Background:
+#070B14
+#0F172A
+#111827
+
+Primary neon:
+#00FFB2
+#00E5FF
+#7C3AED
+
+Text:
+#FFFFFF
+#94A3B8
+
+Cards:
+rgba(255,255,255,0.03)
+
+Borders:
+rgba(255,255,255,0.08)
+
+---------------------------------------------------
+PAGE STRUCTURE
+---------------------------------------------------
+
+Create a centered mobile-first layout.
+
+Structure:
+
+1. Cyber logo
+2. Status badge
+3. Main headline
+4. Subheadline
+5. Embedded VSL video section
+6. Secure report button
+7. Live processing card
+8. Animated progress system
+9. Live encrypted logs
+
+---------------------------------------------------
+TOP SECTION
+---------------------------------------------------
+
+Centered cyber logo.
+
+Minimal futuristic encrypted icon.
+
+Below logo:
+animated status badge.
+
+Badge text:
+
+“LIVE SECURE PROCESSING”
+
+Style:
+- subtle glow
+- glassmorphism
+- soft pulse animation
+
+---------------------------------------------------
+HEADLINE
+---------------------------------------------------
+
+Headline:
+
+“Real-Time Intelligence Processing”
+
+Alternative:
+“Secure Device Analysis”
+
+Typography:
+- large
+- bold
+- clean
+- premium
+
+---------------------------------------------------
+SUBHEADLINE
+---------------------------------------------------
+
+Text:
+
+“Encrypted AI systems are securely processing synchronization protocols in real time.”
+
+Keep concise and premium.
+
+---------------------------------------------------
+VIDEO SECTION
+---------------------------------------------------
+
+IMPORTANT:
+Embed this video directly into the page:
+
+https://youtu.be/lcTv9vAIbVQ?si=4iNVNqs4SoKP8X1Y
+
+The video section should feel:
+- premium
+- cinematic
+- integrated into the intelligence UI
+
+DO NOT:
+- use giant YouTube play buttons
+- make it look like a fake video player
+
+Instead:
+- create a premium video container
+- dark cyber frame
+- soft neon border
+- subtle glow
+- rounded corners
+- responsive mobile layout
+
+Add subtle “LIVE ANALYSIS” label overlay.
+
+---------------------------------------------------
+RETENTION SYSTEM
+---------------------------------------------------
+
+IMPORTANT:
+The entire system processing experience MUST last approximately 3 minutes.
+
+This timing is CRITICAL.
+
+The progress system MUST slowly evolve during the entire video duration.
+
+DO NOT instantly complete processing.
+
+---------------------------------------------------
+PROGRESS SYSTEM
+---------------------------------------------------
+
+Create a realistic animated progress system.
+
+The progress bar should:
+- gradually move over 3 minutes
+- update slowly
+- pause naturally at certain moments
+- feel believable
+
+The progress percentage should:
+- evolve progressively
+- reach 100% only near the end of the video
+
+Use:
+- smooth animated glow
+- moving gradient effect
+- subtle pulsing
+
+---------------------------------------------------
+LIVE PROCESSING CARD
+---------------------------------------------------
+
+Main card title:
+
+“Secure Synchronization Analysis”
+
+Below:
+auto-detected user location.
+
+Examples:
+Johannesburg, South Africa
+Cape Town, South Africa
+
+Use IP geolocation.
+
+---------------------------------------------------
+LIVE PROCESSING LOGS
+---------------------------------------------------
+
+Create animated live logs that appear progressively during the 3-minute duration.
+
+The logs should NOT appear all at once.
+
+Instead:
+- reveal gradually
+- synchronized with progress bar
+- smooth fade animations
+
+Use these logs:
+
+✓ Initializing encrypted connection...
+
+✓ Locating nearest secure relay...
+
+✓ Verifying protected device session...
+
+✓ Synchronizing secure activity...
+
+✓ Establishing encrypted tunnel...
+
+✓ Processing intelligence metadata...
+
+✓ Detecting active device signals...
+
+✓ Analyzing communication patterns...
+
+✓ Validating synchronization protocols...
+
+✓ Securing real-time monitoring access...
+
+✓ Finalizing encrypted analysis...
+
+✓ Secure synchronization completed successfully.
+
+---------------------------------------------------
+IMPORTANT UX BEHAVIOR
+---------------------------------------------------
+
+The interface must constantly feel “alive”.
+
+Add:
+- subtle status pulses
+- animated indicators
+- glowing progress movement
+- real-time log appearance
+- soft transitions
+
+BUT:
+keep everything minimal and elegant.
+
+---------------------------------------------------
+REPORT BUTTON
+---------------------------------------------------
+
+Button text:
+
+“Access Secure Report”
+
+IMPORTANT:
+The button should initially appear DISABLED or LOADING.
+
+Only near the end of the 3-minute processing should it become fully active.
+
+Activation behavior:
+- glow intensifies
+- button unlock animation
+- subtle success pulse
+
+This psychologically reinforces completion.
+
+---------------------------------------------------
+ANIMATIONS
+---------------------------------------------------
+
+Use Framer Motion.
+
+Animations should include:
+- fade in
+- slide upward
+- glow pulse
+- live status blinking
+- smooth transitions
+- loading shimmer
+
+Everything should feel:
+- premium
+- cinematic
+- believable
+
+---------------------------------------------------
+RESPONSIVENESS
+---------------------------------------------------
+
+MOBILE-FIRST IS PRIORITY.
+
+Optimize heavily for:
+- Android devices
+- South African mobile traffic
+- vertical scrolling
+- fast loading
+
+The page must feel:
+- smooth
+- lightweight
+- responsive
+- modern
+
+---------------------------------------------------
+IMPORTANT PSYCHOLOGICAL GOAL
+---------------------------------------------------
+
+The user should feel:
+
+“something real and advanced is happening in the background.”
+
+The page must maximize:
+- retention
+- curiosity
+- anticipation
+- emotional investment
+
+The user should WANT to wait for the final result.
+
+---------------------------------------------------
+CODE QUALITY
+---------------------------------------------------
+
+IMPORTANT:
+Write clean scalable production-quality code.
+
+Separate components:
+
+/components
+- CyberLogo
+- StatusBadge
+- VideoContainer
+- ProgressCard
+- LiveLogs
+- GlowButton
+- BackgroundEffects
+
+Avoid giant files.
+
+Use reusable component architecture.
+
+---------------------------------------------------
+FINAL EXPERIENCE
+---------------------------------------------------
+
+The final experience should feel like:
+
+“a premium encrypted AI intelligence system performing real-time analysis.”
+
+Minimal.
+Elegant.
+Believable.
+Highly engaging.
+Optimized for 3-minute retention.
