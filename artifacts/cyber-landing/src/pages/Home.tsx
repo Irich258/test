@@ -50,7 +50,7 @@ export default function Home() {
             variants={item}
             className="text-lg sm:text-xl text-[#94A3B8] max-w-2xl mb-12 leading-relaxed"
           >
-            Private AI-powered monitoring technology designed for modern digital protection.
+            Discover how to keep your relationship safe and healthy with our exclusive solution.
           </motion.p>
 
           <motion.div 
