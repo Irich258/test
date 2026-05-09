@@ -77,10 +77,17 @@ export default function Processing() {
           
           <motion.div variants={item} className="flex flex-col items-center gap-2 text-center mt-2">
             <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">
-              Real-Time Intelligence Processing
+              Ongoing Deep Research Investigations
             </h1>
-            <p className="text-sm sm:text-base text-[#94A3B8] max-w-sm leading-relaxed">
-              Encrypted AI systems are securely processing synchronization protocols in real time.
+            <p className="text-sm sm:text-base text-[#94A3B8]/70 max-w-sm leading-relaxed">
+              If you leave the video you will be alerted of the number that is{" "}
+              <motion.span
+                className="text-[#94A3B8]"
+                animate={{ opacity: [0.5, 1, 0.5] }}
+                transition={{ duration: 2.4, repeat: Infinity, ease: "easeInOut" }}
+              >
+                under investigation...
+              </motion.span>
             </p>
           </motion.div>
 
